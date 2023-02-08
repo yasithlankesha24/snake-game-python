@@ -1,2 +1,3 @@
 # snake_game_python
-A simple snake game in Python. 
+
+Building the simple classic snake game with python
